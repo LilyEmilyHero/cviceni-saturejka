@@ -1,0 +1,18 @@
+body {
+  background-color: #FFEFEF;
+}
+
+header {
+  width: 70%;
+}
+
+section {
+  background-color: white;
+  width: 70%;
+  clear: left;
+}
+
+.nabidka img {
+  width: 30%;
+  padding: 0 10px;
+}
